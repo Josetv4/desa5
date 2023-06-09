@@ -1,0 +1,23 @@
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  /* Cambiar el color de fondo a un tono pastel de verde */
+  body {
+    background-color: #d8f3dc;
+  }
+  
+  /* Cambiar el color del botón a un tono pastel de verde */
+  .btn-primary {
+    background-color: #ade498;
+    border-color: #ade498;
+  }
+  
+  .personal-data {
+    background-color: #c1edd8;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
